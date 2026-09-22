@@ -2,6 +2,18 @@
 
 **StudyFlow** is a modern multilingual Android application designed to help students organize their studies, manage tasks, track deadlines, and stay productive.
 
+
+## 📱 Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cf2feb6b-743c-4d68-9b90-b2a42e3d8b1b" width="230" alt="StudyFlow Dashboard">
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/eed86225-3e63-4e54-9f46-ec7de425a76f" width="230" alt="StudyFlow Add Task">
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/f1a71a3f-3b19-4c82-8bbf-76fb86b079bc" width="230" alt="StudyFlow Tasks">
+</p>
+
+
 The application is built with **Kotlin** in **Android Studio** and uses **Material 3** for a clean and modern user interface.
 
 ---
