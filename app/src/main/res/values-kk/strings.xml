@@ -1,0 +1,45 @@
+<resources>
+
+    <string name="app_name">StudyFlow</string>
+
+    <string name="dashboard_title">StudyFlow</string>
+    <string name="dashboard_subtitle">Тиімді оқы. Ұйымдасқан бол.</string>
+
+    <string name="overview">Шолу</string>
+
+    <string name="tasks">Тапсырмалар</string>
+    <string name="completed">Орындалды</string>
+
+    <string name="my_tasks">Менің тапсырмаларым</string>
+    <string name="add_task">Тапсырма қосу</string>
+    <string name="settings">Баптаулар</string>
+
+    <string name="language">Тіл</string>
+    <string name="theme">Тақырып</string>
+
+    <string name="english">English</string>
+    <string name="kazakh">Қазақша</string>
+    <string name="russian">Русский</string>
+
+    <string name="system_theme">Жүйелік</string>
+    <string name="light_theme">Ашық</string>
+    <string name="dark_theme">Қараңғы</string>
+
+    <string name="appearance">Көрініс</string>
+
+    <string name="save">Сақтау</string>
+
+    <string name="search_tasks">Тапсырмаларды іздеу…</string>
+
+    <string name="task_title">Тапсырма атауы</string>
+    <string name="description">Сипаттама</string>
+    <string name="deadline">Орындау мерзімі</string>
+
+    <string name="priority">Басымдық</string>
+    <string name="category">Санат</string>
+    <string name="no_tasks">Әзірге тапсырмалар жоқ</string>
+    <string name="no_tasks_description">Бастау үшін алғашқы тапсырмаңызды жасаңыз.</string>
+    <string name="back">Артқа</string>
+    <string name="delete">Жою</string>
+
+</resources>

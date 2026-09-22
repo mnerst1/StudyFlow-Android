@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    android:orientation="vertical"
+
+    android:padding="18dp"
+
+    android:background="#1E293B"
+
+    android:layout_marginBottom="10dp">
+
+
+    <TextView
+
+        android:id="@+id/textTaskTitle"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Task title"
+
+        android:textColor="#FFFFFF"
+
+        android:textSize="19sp"
+
+        android:textStyle="bold"/>
+
+
+    <TextView
+
+        android:id="@+id/textTaskCategory"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Programming"
+
+        android:textColor="#94A3B8"
+
+        android:layout_marginTop="6dp"/>
+
+
+    <TextView
+
+        android:id="@+id/textTaskPriority"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="HIGH"
+
+        android:textColor="#F87171"
+
+        android:layout_marginTop="6dp"/>
+
+
+    <TextView
+
+        android:id="@+id/textDeadline"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="📅 22.09.2026"
+
+        android:textColor="#CBD5E1"
+
+        android:layout_marginTop="6dp"/>
+
+
+    <CheckBox
+
+        android:id="@+id/checkCompleted"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="Completed"
+
+        android:textColor="#FFFFFF"
+
+        android:layout_marginTop="10dp"/>
+
+
+    <Button
+
+        android:id="@+id/buttonDelete"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="Delete"
+
+        android:layout_marginTop="8dp"/>
+
+
+</LinearLayout>

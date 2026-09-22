@@ -1,0 +1,45 @@
+<resources>
+
+    <string name="app_name">StudyFlow</string>
+
+    <string name="dashboard_title">StudyFlow</string>
+    <string name="dashboard_subtitle">Учись эффективнее. Будь организованнее.</string>
+
+    <string name="overview">Обзор</string>
+
+    <string name="tasks">Задачи</string>
+    <string name="completed">Выполнено</string>
+
+    <string name="my_tasks">Мои задачи</string>
+    <string name="add_task">Добавить задачу</string>
+    <string name="settings">Настройки</string>
+
+    <string name="language">Язык</string>
+    <string name="theme">Тема</string>
+
+    <string name="english">English</string>
+    <string name="kazakh">Қазақша</string>
+    <string name="russian">Русский</string>
+
+    <string name="system_theme">Как в системе</string>
+    <string name="light_theme">Светлая</string>
+    <string name="dark_theme">Тёмная</string>
+
+    <string name="appearance">Оформление</string>
+
+    <string name="save">Сохранить</string>
+
+    <string name="search_tasks">Поиск задач…</string>
+
+    <string name="task_title">Название задачи</string>
+    <string name="description">Описание</string>
+    <string name="deadline">Срок выполнения</string>
+
+    <string name="priority">Приоритет</string>
+    <string name="category">Категория</string>
+    <string name="no_tasks">Задач пока нет</string>
+    <string name="no_tasks_description">Создайте первую задачу, чтобы начать.</string>
+    <string name="back">Назад</string>
+    <string name="delete">Удалить</string>
+
+</resources>
