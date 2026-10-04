@@ -251,7 +251,7 @@ Current release:
 
 Developed by **Miras**
 
-Created as part of the **365 Days of Code** challenge.
+Created as part of the **15 Days of Code** challenge.
 
 ---
 
